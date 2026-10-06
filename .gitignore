@@ -1,0 +1,13 @@
+# Служебные файлы ОС
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Редакторы
+.idea/
+.vscode/
+*.swp
+
+# Архивы
+*.rar
+*.zip
